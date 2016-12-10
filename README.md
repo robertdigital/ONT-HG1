@@ -2,59 +2,59 @@
 Cliveome ONT-HG1 data release
 
 * 49 flowcells
-* bases
-* reads
+* xx bases
+* xx reads
 
-| flowcell_id | reads  | bases      | Date     | Centre  | SampleType | Size |
-|-------------|--------|------------|----------|---------|------------|-------|
-| FAB48658    |        |            | Nov 15   | ONT     | DNA        |       | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB44256.merged.fq.gz
-| FAB48822    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48899    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48926    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48595    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48869    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48586    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47779    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47797    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47906    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47927    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47932    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47945    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47947    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB47973    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48084    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48150    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48152    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48153    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48174    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48362    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48413    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48426    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48438    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48441    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB49073    |        |            | Nov 15   | ONT     | DNA        |       |
-| FAB48653    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB48905    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB47912    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB48870    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB47854    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB48694    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB48707    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB49144    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB47783    |        |            | Nov 16   | ONT     | DNA        |       |
-| FAB46947    |        |            | Nov 18   | ONT     | DNA        |       |
-| FAB44256    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB48349    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB46862    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB48176    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB47972    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB49802    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB49803    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB47882    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAB47938    |        |            | Nov 21   | ONT     | DNA        |       |
-| FAF02814    |        |            | Nov 25   | ONT     | DNA        |       |
-| FAF01949    |        |            | Nov 25   | ONT     | DNA        |       |
-| FAF01960    |        |            | Nov 25   | ONT     | DNA        |       |
-| FAF02834    |        |            | Nov 25   | ONT     | DNA        |       |
-| FAF03150    |        |            | Dec  8   | ONT     | DNA        |       |
-| FAF03128    |        |            | Dec  8   | ONT     | DNA        |       |
+| flowcell_id | reads  | bases      | Date     | Centre  | SampleType | Size | FastQ.gz                                                                      |
+|-------------|--------|------------|----------|---------|------------|------|-------------------------------------------------------------------------------|
+| FAB48658    | 690363 |            | Nov 15   | ONT     | DNA        | 3.7G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48658.merged.fq.gz |
+| FAB48822    | 745917 |            | Nov 15   | ONT     | DNA        | 4.1G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48822.merged.fq.gz |
+| FAB48899    |        |            | Nov 15   | ONT     | DNA        | 4.7G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48899.merged.fq.gz |
+| FAB48926    |        |            | Nov 15   | ONT     | DNA        | 4.6G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48926.merged.fq.gz |
+| FAB48595    | 672883 |            | Nov 15   | ONT     | DNA        | 3.7G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48595.merged.fq.gz |
+| FAB48869    | 537554 |            | Nov 15   | ONT     | DNA        | 3.3G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48869.merged.fq.gz |
+| FAB48586    | 771853 |            | Nov 15   | ONT     | DNA        | 4.2G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48586.merged.fq.gz |
+| FAB47779    | 75294  |            | Nov 15   | ONT     | DNA        | 546M | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47779.merged.fq.gz |
+| FAB47797    | 21886  |            | Nov 15   | ONT     | DNA        | 160M | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47797.merged.fq.gz |
+| FAB47906    | 910    |            | Nov 15   | ONT     | DNA        | 6.5M | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47906.merged.fq.gz |
+| FAB47927    | 392166 |            | Nov 15   | ONT     | DNA        | 2.8G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47927.merged.fq.gz |
+| FAB47932    | 311965 |            | Nov 15   | ONT     | DNA        | 2.2G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47932.merged.fq.gz |
+| FAB47945    | 328142 |            | Nov 15   | ONT     | DNA        | 2.3G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47945.merged.fq.gz |
+| FAB47947    | 425622 |            | Nov 15   | ONT     | DNA        | 3.0G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47947.merged.fq.gz |
+| FAB47973    | 218403 |            | Nov 15   | ONT     | DNA        | 1.8G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47973.merged.fq.gz |
+| FAB48084    | 312047 |            | Nov 15   | ONT     | DNA        | 2.1G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48084.merged.fq.gz |
+| FAB48150    | 210680 |            | Nov 15   | ONT     | DNA        | 1.5G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48150.merged.fq.gz |
+| FAB48152    | 287148 |            | Nov 15   | ONT     | DNA        | 2.1G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48152.merged.fq.gz |
+| FAB48153    | 472842 |            | Nov 15   | ONT     | DNA        | 2.8G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48153.merged.fq.gz |
+| FAB48174    | 374205 |            | Nov 15   | ONT     | DNA        | 2.6G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48174.merged.fq.gz |
+| FAB48362    | 303805 |            | Nov 15   | ONT     | DNA        | 2.0G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48362.merged.fq.gz |
+| FAB48413    | 453990 |            | Nov 15   | ONT     | DNA        | 2.6G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48413.merged.fq.gz |
+| FAB48426    | 259474 |            | Nov 15   | ONT     | DNA        | 2.0G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48426.merged.fq.gz |
+| FAB48438    | 320588 |            | Nov 15   | ONT     | DNA        | 1.1G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48438.merged.fq.gz |
+| FAB48441    | 336142 |            | Nov 15   | ONT     | DNA        | 2.4G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48441.merged.fq.gz |
+| FAB49073    |        |            | Nov 15   | ONT     | DNA        | 2.4G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB49073.merged.fq.gz |
+| FAB48653    | 852162 |            | Nov 16   | ONT     | DNA        | 5.2G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48653.merged.fq.gz |
+| FAB48905    |        |            | Nov 16   | ONT     | DNA        | 3.9G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48905.merged.fq.gz |
+| FAB47912    | 434724 |            | Nov 16   | ONT     | DNA        | 2.7G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47912.merged.fq.gz |
+| FAB48870    | 564834 |            | Nov 16   | ONT     | DNA        | 3.7G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48870.merged.fq.gz |
+| FAB47854    | 521908 |            | Nov 16   | ONT     | DNA        | 3.4G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47854.merged.fq.gz |
+| FAB48694    | 526378 |            | Nov 16   | ONT     | DNA        | 3.3G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48694.merged.fq.gz |
+| FAB48707    | 324858 |            | Nov 16   | ONT     | DNA        | 2.0G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48707.merged.fq.gz |
+| FAB49144    |        |            | Nov 16   | ONT     | DNA        | 3.3G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB49144.merged.fq.gz |
+| FAB47783    | 423909 |            | Nov 16   | ONT     | DNA        | 2.7G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47783.merged.fq.gz |
+| FAB46947    |        |            | Nov 18   | ONT     | DNA        |      | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46947.merged.fq.gz |
+| FAB44256    | 549575 |            | Nov 21   | ONT     | DNA        | 4.9G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB44256.merged.fq.gz |
+| FAB48349    | 457772 |            | Nov 21   | ONT     | DNA        | 3.9G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48349.merged.fq.gz |
+| FAB46862    | 463963 |            | Nov 21   | ONT     | DNA        | 4.2G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46862.merged.fq.gz |
+| FAB48176    | 477407 |            | Nov 21   | ONT     | DNA        | 4.1G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48176.merged.fq.gz |
+| FAB47972    | 220111 |            | Nov 21   | ONT     | DNA        | 2.6G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47972.merged.fq.gz |
+| FAB49802    |        |            | Nov 21   | ONT     | DNA        | 4.2G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB49802.merged.fq.gz |
+| FAB49803    |        |            | Nov 21   | ONT     | DNA        | 3.9G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB49803.merged.fq.gz |
+| FAB47882    | 456470 |            | Nov 21   | ONT     | DNA        | 4.3G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47882.merged.fq.gz |
+| FAB47938    | 317247 |            | Nov 21   | ONT     | DNA        | 3.8G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47938.merged.fq.gz |
+| FAF02814    |        |            | Nov 25   | ONT     | DNA        | 2.1G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF02814.merged.fq.gz |
+| FAF01949    |        |            | Nov 25   | ONT     | DNA        | 1.6G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF01949.merged.fq.gz |
+| FAF01960    |        |            | Nov 25   | ONT     | DNA        | 2.4G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF01960.merged.fq.gz |
+| FAF02834    |        |            | Nov 25   | ONT     | DNA        | 1.5G | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF02834.merged.fq.gz |
+| FAF03150    |        |            | Dec  8   | ONT     | DNA        |      | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03150.merged.fq.gz |
+| FAF03128    |        |            | Dec  8   | ONT     | DNA        |      | http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03128.merged.fq.gz |
