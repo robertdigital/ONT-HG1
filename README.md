@@ -1,5 +1,5 @@
-# ont-hg1
-Cliveome ONT-HG1 data release
+# ONTHG1
+ONTHG1 (Cliveome) data release
 
 * 49 flowcells
 * xx bases
