@@ -2,8 +2,8 @@
 ONTHG1 (Cliveome) data release
 
 * 49 flowcells
-* 19508197 reads
-* 160421375487 bases
+* 19749027 reads
+* 165412703893 bases
 
 | FlowcellId | Reads  | Bases      | Date       | Centre | Type | Size | Links                                                                                  | MD5                              |
 |------------|--------|------------|------------|--------|------|------|----------------------------------------------------------------------------------------|----------------------------------|
@@ -57,11 +57,10 @@ ONTHG1 (Cliveome) data release
 | FAF01949   | 80838  | 1876063754 | 2016-11-25 | ONT    | DNA  | 1.6G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF01949.merged.fq.gz) | a364ac1f4163d1378679e4c7317be955 |
 | FAF01960   | 123927 | 2769642304 | 2016-11-25 | ONT    | DNA  | 2.4G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF01960.merged.fq.gz) | 29a097f9b6e12303366fd5f0fdee4050 |
 | FAF02834   | 74715  | 1725455704 | 2016-11-25 | ONT    | DNA  | 1.5G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF02834.merged.fq.gz) | 97f46b004e0cd3b2172b305e623a045d |
-| FAF03150   |        |            | 2016-12-08 | ONT    | DNA  |      | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03150.merged.fq.gz) |                                  |
-| FAF03128   |        |            | 2016-12-08 | ONT    | DNA  |      | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03128.merged.fq.gz) |                                  |
+| FAF03150   | 116014 | 2468815691 | 2016-12-08 | ONT    | DNA  | 2.2G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03150.merged.fq.gz) | 85a02729de96f66502024c4641b7a3df |
+| FAF03128   | 124816 | 2522512715 | 2016-12-08 | ONT    | DNA  | 2.2G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03128.merged.fq.gz) | ab8e61ac9bc55185955bf8c8a25b96f9 |
 
 
 | Name         | Size | Links                                                                                                                   |
 |--------------|------|-------------------------------------------------------------------------------------------------------------------------|
 | 23andMe SNPs | 5M   | [SNPs](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/snps-23andMe/genome_Clive_Brown_v2_Full_20161123020445.txt.gz) |
-
