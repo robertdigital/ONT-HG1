@@ -1,7 +1,7 @@
 # ONTHG1
 ONTHG1 (Cliveome) data release
 
-* 49 flowcells
+* 51 flowcells
 * 19,749,027 reads
 * 165,412,703,893 bases
 
