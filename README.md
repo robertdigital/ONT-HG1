@@ -6,7 +6,7 @@ ONTHG1 (Cliveome) data release
 * 165,412,703,893 bases
 
 | FlowcellId | Reads   | Bases         | Date       | Centre | Type | Size | Links                                                                                  | MD5                              |
-|------------|---------|---------------|------------|--------|------|------|----------------------------------------------------------------------------------------|----------------------------------|
+|------------|--------:|--------------:|------------|--------|------|------|----------------------------------------------------------------------------------------|----------------------------------|
 | FAB48453   | 410,383 | 2,746,493,390 | 2016-11-14 | ONT    | DNA  | 2.4G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48453.merged.fq.gz) | 2d10351cea9620b9620a26210e90b746 |
 | FAB48658   | 690,363 | 4,191,340,776 | 2016-11-15 | ONT    | DNA  | 3.7G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48658.merged.fq.gz) | b254ab08cae2cdcfa86132b2e2f7fed8 |
 | FAB48822   | 745,917 | 4,666,258,109 | 2016-11-15 | ONT    | DNA  | 4.1G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48822.merged.fq.gz) | bfbf0737b7f89098488ec206f91c51a3 |
@@ -43,7 +43,7 @@ ONTHG1 (Cliveome) data release
 | FAB48707   | 324,858 | 2,298,496,310 | 2016-11-16 | ONT    | DNA  | 2.0G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48707.merged.fq.gz) | 45ebab97c9860c00798d376f053c2ab0 |
 | FAB49144   | 513,154 | 3,738,170,694 | 2016-11-16 | ONT    | DNA  | 3.3G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB49144.merged.fq.gz) | 1cac928a0329f59943ba839530fb23f0 |
 | FAB47783   | 423,909 | 3,101,734,044 | 2016-11-16 | ONT    | DNA  | 2.7G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47783.merged.fq.gz) | c433dd0e3c5dade674f0c666456d85dd |
-| FAB46947   |         |             | 2016-11-18 | ONT    | DNA  |      | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46947.merged.fq.gz) |                                  |
+| FAB46947   |         |               | 2016-11-18 | ONT    | DNA  |      | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46947.merged.fq.gz) |                                  |
 | FAB44256   | 549,575 | 5,584,921,090 | 2016-11-21 | ONT    | DNA  | 4.9G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB44256.merged.fq.gz) | 1b62b94f991236f9c157fadc66d43722 |
 | FAB48349   | 457,772 | 4,480,291,738 | 2016-11-21 | ONT    | DNA  | 3.9G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48349.merged.fq.gz) | 1723907653a4bb47bd66afd22bbaf715 |
 | FAB46862   | 463,963 | 4,837,928,925 | 2016-11-21 | ONT    | DNA  | 4.2G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46862.merged.fq.gz) | baf79b8f07c3e242bbb117330479f7bc |
