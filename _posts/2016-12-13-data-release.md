@@ -4,8 +4,6 @@ category: General
 date: 2016-12-13
 ---
 
-# Data Release
-
  * list
  * list
 
