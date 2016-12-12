@@ -5,6 +5,12 @@ ONTHG1 (Cliveome) data release
 * 19,749,027 reads
 * 165,412,703,893 bases
 
+* [FastQ](#fastq)
+* [23andMe SNPs](#23andme-snps)
+
+
+## FastQ
+
 | FlowcellId | Reads   | Bases         | Date       | Centre | Type | Size | Links                                                                                  | MD5                              |
 |------------|--------:|--------------:|------------|--------|------|------|----------------------------------------------------------------------------------------|----------------------------------|
 | FAB48453   | 410,383 | 2,746,493,390 | 2016-11-14 | ONT    | DNA  | 2.4G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48453.merged.fq.gz) | 2d10351cea9620b9620a26210e90b746 |
@@ -60,6 +66,8 @@ ONTHG1 (Cliveome) data release
 | FAF03150   | 116,014 | 2,468,815,691 | 2016-12-08 | ONT    | DNA  | 2.2G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03150.merged.fq.gz) | 85a02729de96f66502024c4641b7a3df |
 | FAF03128   | 124,816 | 2,522,512,715 | 2016-12-08 | ONT    | DNA  | 2.2G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAF03128.merged.fq.gz) | ab8e61ac9bc55185955bf8c8a25b96f9 |
 
+
+## 23 and Me SNPs
 
 | Name         | Size | Links                                                                                                                   |
 |--------------|------|-------------------------------------------------------------------------------------------------------------------------|
