@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home of the Cliveome
+title: Home
 ---
 <h1>{{ page.title }}</h1>
 <ul>
