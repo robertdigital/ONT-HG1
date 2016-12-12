@@ -71,6 +71,6 @@ ONTHG1 (Cliveome) data release
 
 ## 23 and Me SNPs
 
-| Name         | Size | Links                                                                                                                   |
-|--------------|------|-------------------------------------------------------------------------------------------------------------------------|
-| 23andMe SNPs | 5M   | [SNPs](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/snps-23andMe/genome_Clive_Brown_v2_Full_20161123020445.txt.gz) |
+| Name         | Size | Links                                                                                                                   | MD5                              |
+|--------------|------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 23andMe SNPs | 5M   | [SNPs](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/snps-23andMe/genome_Clive_Brown_v2_Full_20161123020445.txt.gz) | 5df03968e7b7d97a21de336bfdab5700 |
