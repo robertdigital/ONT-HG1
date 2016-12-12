@@ -50,7 +50,7 @@ ONTHG1 (Cliveome) data release
 | FAB48707   | G-tube       | 324,858 | 2,298,496,310 | 2016-11-16 | 2.0G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48707.merged.fq.gz) | 45ebab97c9860c00798d376f053c2ab0 |
 | FAB49144   | G-tube       | 513,154 | 3,738,170,694 | 2016-11-16 | 3.3G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB49144.merged.fq.gz) | 1cac928a0329f59943ba839530fb23f0 |
 | FAB47783   | G-tube       | 423,909 | 3,101,734,044 | 2016-11-16 | 2.7G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB47783.merged.fq.gz) | c433dd0e3c5dade674f0c666456d85dd |
-| FAB46947   |              |         |               | 2016-11-18 |      | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46947.merged.fq.gz) |                                  |
+| FAB46947   | G-tube       | 468,185 | 5,220,741,238 | 2016-11-18 | 4.5G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46947.merged.fq.gz) | 2cf4047f039923fc9ff70a20e68d1a68 |
 | FAB44256   | G-tube       | 549,575 | 5,584,921,090 | 2016-11-21 | 4.9G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB44256.merged.fq.gz) | 1b62b94f991236f9c157fadc66d43722 |
 | FAB48349   | G-tube       | 457,772 | 4,480,291,738 | 2016-11-21 | 3.9G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48349.merged.fq.gz) | 1723907653a4bb47bd66afd22bbaf715 |
 | FAB46862   | G-tube       | 463,963 | 4,837,928,925 | 2016-11-21 | 4.2G | [FASTQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB46862.merged.fq.gz) | baf79b8f07c3e242bbb117330479f7bc |
