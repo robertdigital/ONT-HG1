@@ -4,7 +4,8 @@ category: General
 date: 2016-12-13
 ---
 
-Head over to GitHub for [downloadable FastQ files](https://github.com/nanoporetech/ONTHG1).
+Head over to GitHub for
+[downloadable FastQ files, 23andMe SNPs and Raw data](https://github.com/nanoporetech/ONTHG1).
 
  * list
  * list
