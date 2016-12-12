@@ -4,7 +4,19 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.3"
 
 # The theme for the site
-gem "jekyll-theme-primer", "~> 0.1"
+# The theme for the site
+gem "alembic-jekyll-theme", "~> 0.1"
+
+# The plugins for the site
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jekyll-mentions"
+  gem "jekyll-paginate"
+  gem "jekyll-seo-tag"
+  gem "jekyll-redirect-from"
+  gem "jekyll-feed"
+  gem "jemoji"
+end
 
 require 'json'
 require 'open-uri'

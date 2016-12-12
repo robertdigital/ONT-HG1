@@ -1,4 +1,102 @@
-name: Hank Quinlan, Horrible Cop
-markdown: kramdown
-theme: jekyll-theme-primer
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+
+# 2. Installed Gems
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+
+theme: alembic-jekyll-theme
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: clive_g_brown # jekyll-seo-tag > Owners twitter username
+author: CliveGBrown # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Clive G Brown # jekyll-seo-tag > real name 
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/Clive_G_Brown
+    - https://github.com/clive-g-brown
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+#permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 permalink: /blog/:year/:month/:day/:title
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My blog" # The post list page content
+    feature_text: |
+      Welcome to the blog
+    feature_image: "https://unsplash.it/1300/400?image=1067"
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Cliveo.me" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Home of the Cliveome" # Site description and default description, also used in jekyll-seo-tag
+url: "https://cliveo.me" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/nanoporetech/ONTHG1"
+email: "support@nanoporetech.com"
+#disqus: "alembic-1"
+#avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+
+# 8. Site navigation
+navigation_header:
+  Blog: /blog/
+  Fork ONTHG1: https://github.com/nanoporetech/ONTHG1
+
+navigation_footer:
+  (c) Clive G. Brown 2016 https://cliveo.me/
+
+social_links:
+  Twitter: https://twitter.com/Clive_G_Brown
+  GitHub: https://github.com/clive-g-brown
+  link: https://cliveo.me/
