@@ -1,12 +1,14 @@
 # ONTHG1
 ONTHG1 (Cliveome) data release
 
+## Stats
 * 51 flowcells
 * 19,749,027 reads
 * 165,412,703,893 bases
 
+## Index
 * [FastQ](#fastq)
-* [23andMe SNPs](#23andme-snps)
+* [23andMe SNPs](#23-and-me-snps)
 
 
 ## FastQ
