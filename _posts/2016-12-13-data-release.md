@@ -4,7 +4,7 @@ category: General
 date: 2016-12-13
 ---
 
-Head over to [GitHub](https://github.com/nanoporetech/ONTHG1) for downloadable FastQ files.
+Head over to GitHub for [downloadable FastQ files](https://github.com/nanoporetech/ONTHG1).
 
  * list
  * list
