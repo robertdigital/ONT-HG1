@@ -18,43 +18,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus est vel mo
 Curabitur laoreet pulvinar dolor, ut mollis erat luctus a. Pellentesque viverra lacus a accumsan laoreet. Nunc venenatis dictum odio, ut bibendum ipsum porttitor sed. Nullam quis libero malesuada, efficitur dolor non, luctus orci. Integer vel semper nibh. Nunc et accumsan neque. Pellentesque vel mi odio. Donec iaculis interdum turpis, sed pulvinar lacus lobortis a. Proin at porttitor quam, quis tristique nisi.
 
 Nam felis urna, gravida nec sagittis eget, iaculis sit amet ante. Phasellus dictum ut elit vitae iaculis. Ut tincidunt purus quis lorem ornare elementum. Sed vitae vestibulum lectus, in feugiat enim. Maecenas vulputate at nibh eget rhoncus. Aenean dapibus ut dolor eget sollicitudin. Donec vestibulum augue id orci eleifend ullamcorper. Donec ultricies blandit volutpat. Nullam porttitor turpis finibus, malesuada augue ac, pharetra mauris. Proin at arcu ante. Ut rhoncus eros sed mauris convallis tincidunt. Curabitur vel ex enim. Suspendisse potenti. Phasellus vulputate ac leo vitae tristique. Nullam eget ipsum eros. Mauris vehicula eros non placerat posuere.
-<style>
-div.gallery {
-    display: -ms-flexbox;
-    -ms-flex-wrap: wrap;
-    -ms-flex-direction: column;
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
-    display: -webkit-box;
-    display: flex;
-}
-div.img {
-    margin: 5px;
-    border: 1px solid #ccc;
-    left;
-    width: 180px;
-    display: inline-block;
-    -webkit-box-flex: auto;
-    -ms-flex: auto;
-    flex: auto;
-    width: 200px;
-    margin: .5vw;
-}
-
-div.img:hover {
-    border: 1px solid #777;
-}
-
-div.img img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-</style>
 <div class="gallery">
   <div class="img">
     <a target="_blank" href="/images/800x600/IMG_0567.jpg">
