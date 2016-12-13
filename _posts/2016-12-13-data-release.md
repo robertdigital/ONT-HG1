@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Data Release
 category: General
 date: 2016-12-13
