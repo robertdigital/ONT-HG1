@@ -19,11 +19,11 @@ Its not widely understood outside of the genomics community that genomes are gen
 
 Therefore, I am not going to pretend the genome here is fully finished or complete. But, I do think it is of comparable completeness to other published personal genomes. Work remains, particularly on base calling. Our existing base callers do not fully decode the underlying raw signals. As further advances are made, better versions of these data may be generated, so dealing with gaps and errors in the consensus. In particular the genome here was sequenced without PCR. The base callers are generally trained on PCR’d data. This means modified bases are likely to show up here as so-called ‘systematic error’ in the averaged consensus.
 
-Another work around we may use is to re-train the base caller to map all signals, including modified bases, back to four base reference sequence (A,C,G,T). That data will also be deposited here.
+Another work around we may use is to retrain the base caller to map all signals, including modified bases, back to four base reference sequence (A,C,G,T). That data will also be deposited here.
 
 We have only made a draft consensus assembly. That is WIP and looks very promising. That will be added to this site when ready.
 
-The genome here was extracted from white blood cells. A particular interest is to look at the hyper-mutable regions of these cells that respond to disease or infection in order to generate antibodies. These re-gions can change over time and in future we aim to add time coursed ‘immuno-profiling’ to the data set.
+The genome here was extracted from white blood cells. A particular interest is to look at the hyper-mutable regions of these cells that respond to disease or infection in order to generate antibodies. These regions can change over time and in future we aim to add time coursed ‘immuno-profiling’ to the data set.
 
 We believe we have full coverage, with average ~50X. Thin patches can be added to as we attempt to assemble the consensus. On this site you will find FastQ files extracted from raw nanopore data. The raw data totals about 40TB, so is really too big for download. We have therefore made 1 flowcell's worth of raw data available here. If you really want the rest you may have to send a disk. When newer base callers have been run, the FastQs are likely to be replaced and superceded. You can also see how much data we got per flowcell, however, we did not run all flowcells for the full 48hrs, often we stopped runs early to swap to new flowcells.
 
