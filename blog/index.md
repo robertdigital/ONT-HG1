@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 <h1>{{ page.title }}</h1>
 <ul>
@@ -11,6 +12,8 @@ title: Home
   </li>
   {% endfor %}
 </ul>
+
+![](/images/800x600/IMG_0567.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus est vel molestie ullamcorper. Fusce ac ligula dignissim, tristique turpis a, vulputate magna. Mauris pulvinar velit sit amet risus finibus, molestie malesuada tellus ullamcorper. Fusce dictum posuere sem. Aliquam lacinia ex non sem aliquet ornare. Fusce eu sapien augue. Vivamus nisi lectus, tristique ultricies tristique ac, vehicula nec diam. In tincidunt orci non gravida varius. In non risus nec sem lobortis fringilla. Praesent at gravida odio, quis vehicula orci. Vivamus tempus enim eget molestie fermentum. Proin convallis nunc ut nunc dictum, at tempor massa fermentum. Donec eu leo consectetur, mollis purus sit amet, accumsan magna.
 
