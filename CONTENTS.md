@@ -7,7 +7,8 @@ ONT-HG1 (Cliveome) data release
 * 169,400,577,668 bases
 
 ## Index
-* [FastQs and Fast5s](#fastqs-and-fast5s)
+* [FastQs](#fastqs)
+* [Fast5s](#fast5s)
 * [23andMe SNPs](#23-and-me-snps)
 
 
