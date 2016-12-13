@@ -24,6 +24,7 @@ div.img {
     border: 1px solid #ccc;
     left;
     width: 180px;
+    display: inline-block;
 }
 
 div.img:hover {
