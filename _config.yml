@@ -13,3 +13,5 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+
+google_analytics: UA-4080440-16
