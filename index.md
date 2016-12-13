@@ -41,6 +41,7 @@ div.desc {
     text-align: center;
 }
 </style>
+<div class="gallery">
 <div class="img">
   <a target="_blank" href="/images/800x600/IMG_0567.jpg">
     <img src="/images/800x600/IMG_0567.jpg" alt="Fjords" width="300" height="200">
@@ -106,4 +107,5 @@ div.desc {
     <img src="/images/800x600/IMG_0603.jpg" alt="Fjords" width="300" height="200">
   </a>
   <div class="desc">Add a description of the image here</div>
+</div>
 </div>
