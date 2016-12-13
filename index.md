@@ -19,12 +19,26 @@ Curabitur laoreet pulvinar dolor, ut mollis erat luctus a. Pellentesque viverra 
 
 Nam felis urna, gravida nec sagittis eget, iaculis sit amet ante. Phasellus dictum ut elit vitae iaculis. Ut tincidunt purus quis lorem ornare elementum. Sed vitae vestibulum lectus, in feugiat enim. Maecenas vulputate at nibh eget rhoncus. Aenean dapibus ut dolor eget sollicitudin. Donec vestibulum augue id orci eleifend ullamcorper. Donec ultricies blandit volutpat. Nullam porttitor turpis finibus, malesuada augue ac, pharetra mauris. Proin at arcu ante. Ut rhoncus eros sed mauris convallis tincidunt. Curabitur vel ex enim. Suspendisse potenti. Phasellus vulputate ac leo vitae tristique. Nullam eget ipsum eros. Mauris vehicula eros non placerat posuere.
 <style>
+div.gallery {
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    -ms-flex-direction: column;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    display: -webkit-box;
+    display: flex;
+}
 div.img {
     margin: 5px;
     border: 1px solid #ccc;
     left;
     width: 180px;
     display: inline-block;
+    -webkit-box-flex: auto;
+    -ms-flex: auto;
+    flex: auto;
+    width: 200px;
+    margin: .5vw;
 }
 
 div.img:hover {
@@ -42,70 +56,70 @@ div.desc {
 }
 </style>
 <div class="gallery">
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0567.jpg">
-    <img src="/images/800x600/IMG_0567.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0573.jpg">
-    <img src="/images/800x600/IMG_0573.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0584.jpg">
-    <img src="/images/800x600/IMG_0584.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0586.jpg">
-    <img src="/images/800x600/IMG_0586.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0588.jpg">
-    <img src="/images/800x600/IMG_0588.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0591.jpg">
-    <img src="/images/800x600/IMG_0591.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0593.jpg">
-    <img src="/images/800x600/IMG_0593.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0594.jpg">
-    <img src="/images/800x600/IMG_0594.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0596.jpg">
-    <img src="/images/800x600/IMG_0596.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0597.jpg">
-    <img src="/images/800x600/IMG_0597.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="/images/800x600/IMG_0603.jpg">
-    <img src="/images/800x600/IMG_0603.jpg" alt="Fjords" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0567.jpg">
+      <img src="/images/800x600/IMG_0567.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0573.jpg">
+      <img src="/images/800x600/IMG_0573.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0584.jpg">
+      <img src="/images/800x600/IMG_0584.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0586.jpg">
+      <img src="/images/800x600/IMG_0586.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0588.jpg">
+      <img src="/images/800x600/IMG_0588.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0591.jpg">
+      <img src="/images/800x600/IMG_0591.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0593.jpg">
+      <img src="/images/800x600/IMG_0593.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0594.jpg">
+      <img src="/images/800x600/IMG_0594.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0596.jpg">
+      <img src="/images/800x600/IMG_0596.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0597.jpg">
+      <img src="/images/800x600/IMG_0597.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="/images/800x600/IMG_0603.jpg">
+      <img src="/images/800x600/IMG_0603.jpg" alt="Fjords" width="300" height="200">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
 </div>
