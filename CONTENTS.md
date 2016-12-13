@@ -1,5 +1,5 @@
-# ONTHG1
-ONTHG1 (Cliveome) data release
+# ONT-HG1
+ONT-HG1 (Cliveome) data release
 
 ## Stats
 * 51 flowcells
