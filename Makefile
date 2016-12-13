@@ -8,3 +8,6 @@ deps:
 #bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/include/libxml2
 	sudo gem install jekyll bundler
 	bundle install
+
+serve:
+	bundle exec jekyll serve --port 9001
