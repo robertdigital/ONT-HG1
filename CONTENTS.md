@@ -1,6 +1,8 @@
 # ONT-HG1
 ONT-HG1 (Cliveome) data release
 
+In order to download the files listed on this page, you will need to use our [Download Tool](DOWNLOAD-TOOL.md)
+
 ## Stats
 * 51 flowcells
 * 19,896,624 reads
@@ -71,6 +73,8 @@ ONT-HG1 (Cliveome) data release
 
 ## FastQs
 
+In order to download the files listed on this page, you will need to use our [Download Tool](DOWNLOAD-TOOL.md)
+
 | Flowcell   | Size | Links                                                                                  | MD5                              |
 |------------|------|----------------------------------------------------------------------------------------|----------------------------------|
 | FAB48453   | 2.4G | [FastQ](http://ont-hg1.s3-website-eu-west-1.amazonaws.com/fastq/FAB48453.merged.fq.gz) | 2d10351cea9620b9620a26210e90b746 |
@@ -128,6 +132,8 @@ ONT-HG1 (Cliveome) data release
 
 ## Fast5s
 
+In order to download the files listed on this page, you will need to use our [Download Tool](DOWNLOAD-TOOL.md)
+
 | Flowcell   | Indices                                                                                 | MD5s                                                                                         |
 |------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | FAB48453   | [Fast5](https://s3-eu-west-1.amazonaws.com/ont-hg1/fast5-basecalled/FAB48453.index.txt) | [Fast5 MD5](https://s3-eu-west-1.amazonaws.com/ont-hg1/fast5-basecalled/FAB48453.md5.txt.gz) |
@@ -183,6 +189,8 @@ ONT-HG1 (Cliveome) data release
 | FAF03128   | [Fast5](https://s3-eu-west-1.amazonaws.com/ont-hg1/fast5-basecalled/FAF03128.index.txt) | [Fast5 MD5](https://s3-eu-west-1.amazonaws.com/ont-hg1/fast5-basecalled/FAF03128.md5.txt.gz) |
 
 ## 23 and Me SNPs
+
+In order to download the files listed on this page, you will need to use our [Download Tool](DOWNLOAD-TOOL.md)
 
 | Name         | Size | Links                                                                                                                   | MD5                              |
 |--------------|------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------|
