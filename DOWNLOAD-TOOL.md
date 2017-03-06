@@ -13,15 +13,15 @@ In summary to download the ONT-HG1 files you need:
 - use the signed-url-requestor.py script as described below to complete the download
 
 
-### Download
+### Download the script
 
-The script is written in Python, specifically Python 2 syntax
-It can be downloaded from [here](signed-url-requestor.py) 
+The script can be downloaded from [here](signed-url-requestor.py) 
    
 
 ### Prerequisites
 
-Ensure Python 2.x is installed, you can download it from here: https://www.python.org/downloads/
+The script is written in Python, specifically Python 2 syntax, so ensure Python 2.x is installed, you can download it from here: https://www.python.org/downloads/
+
 The script has been tested on Python 2.7.10, running on Mac OS X 10.11.6
 
 
