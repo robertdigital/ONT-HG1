@@ -1,4 +1,4 @@
-# Signed-URL-Requestor
+# signed-url-requestor.py
 
 This tool is intended to make downloading ONT-HG1 files easy.
 
@@ -13,7 +13,7 @@ In summary to download the ONT-HG1 files you need:
 - use the signed-url-requestor.py script as described below to complete the download
 
 
-## signed-url-requestor.py
+### Download
 
 The script is written in Python, specifically Python 2 syntax
 It can be downloaded from [here](signed-url-requestor.py) 
