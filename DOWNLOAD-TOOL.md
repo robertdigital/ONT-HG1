@@ -57,4 +57,6 @@ Optional arguments:
 
     --profile           the section within your aws credentails file to use
     --output-dir        the directory to save the downloaded file in
+    --index-file        if set, script assumes you're download an index file
+                        which should be parsed for urls of files to download
     -v                  verbose output for debugging
