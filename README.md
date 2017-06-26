@@ -1,3 +1,22 @@
+Update
+=======
+
+
+Below is the original ReadMe from our first attempt at a self-sequenced human genome on nanopore technology (cliveome). Some months ago we re-ran using fresh blood, but this time on GridION. Per flowcell yields were between 12 and 14Gbases and more recently we are seeing customer runs on MinION matching or exceeding these. As of 26th Jun 2017 we should start to see comparable GridION runs in field. We've posted these new data in the week when we are about to do another cliveome run from fresh blood, this time using some of the 'ultra-long' read preparations that have been shown elsewhere.
+
+These data are additive. The file sizes are large, so after a few weeks we will have a 'user-pays' system that covers the amazon cloud download fees.
+
+I performed the steps, and most importantly ran the apparatus (camera), so the Copyright notices and license assertions from the original cliveome are applicable to these newer datasets.
+
+enjoy
+
+c
+
+
+
+
+
+
 ReadMe
 ======
 
