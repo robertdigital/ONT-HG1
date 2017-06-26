@@ -13,7 +13,7 @@ ONT-HG1 (Cliveome) GridION data release 2017-05
 
 ## 23 and Me SNPs
 
-In order to download the files listed on this page, you will need to use our [Download Tool](DOWNLOAD-TOOL.md)
+In order to download the files listed here, you will need to use our [Download Tool](DOWNLOAD-TOOL.md)
 
 | Name         | Size | Links                                                                                                                   | MD5                              |
 |--------------|------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------|
