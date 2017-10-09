@@ -1,3 +1,15 @@
+
+Update 9-Oct 2017
+==================
+
+The original cliveome data from the two later GridION runs has been recalled (by Chris Wright) using Guppy (0.2.3) which was the latest version at the time of writing. The 23andMe SNP calls file has also been updated (so much for 'gold standard' genotyping).
+
+All other terms and condition as per the original README and License below. 
+
+c.
+
+
+
 Update
 =======
 
