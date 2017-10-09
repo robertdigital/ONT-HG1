@@ -1,7 +1,24 @@
 # ONT-HG1
 
-2017-10: ONT-HG1 (Cliveome2) rebasecalled data from 2017-05.
-2017-05: ONT-HG1 (Cliveome2) GridION data release 2017-05. Two GridION runs were performed. Basecalling was performed using a pre-production transducer model implemented in scrappie (now available in production basecallers); basecalls therefore do not contain quality scores.
+# ONT-HG1
+
+Contents
+--------
+* 2017-10: ONT-HG1 (Cliveome2) rebasecalled data from 2017-05.
+* 2017-05: ONT-HG1 (Cliveome2) GridION data release 2017-05.
+
+Two GridION runs were performed. The latest update removes previous basecalls and replaces them with basecalls obtained from a development version of the GPU accelerated `guppy` basecaller. This basecaller coantins serveral advances and fixes to that which was used previously; hence the removal of the previous calls.
+
+The alignments provided here were obtained with minimap2 using approximately:
+
+```bash
+   ALIGN_OPTS="-x map-ont -A1 -B2 -O2 -E1"
+   REF=g1kv37/g1kv37.fa
+   minimap2 -d ${REF}.mmi ${ALIGN_OPTS} ${REF}
+   minimap2 ${ALIGN_OPTS} -a ${REF}.mmi <reads.fq> | samtools view -T {REF} -F 2308 > …
+```
+
+Note therefore that only primary alignments are included (secondary and supplementary alignments are removed as well as unmapped reads). The genome build used here although not the most recent is that which is referenced in the 23andMe results found below.
 
 ## Index
 
