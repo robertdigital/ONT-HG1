@@ -1,9 +1,6 @@
 # ONT-HG1
 
-# ONT-HG1
-
-Contents
---------
+## Contents
 * 2017-10: ONT-HG1 (Cliveome2) rebasecalled data from 2017-05.
 * 2017-05: ONT-HG1 (Cliveome2) GridION data release 2017-05.
 
