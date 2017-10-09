@@ -78,7 +78,7 @@
 |---------|------|---------------------------------------------------------------------------|----------------------------------|
 | 2016-05 | 116M | [Fast5](https://s3-eu-west-1.amazonaws.com/ont-hg1b/fast5-listing.txt.gz) | d80e3620e0cf6fa97b2cb61ec507eabc |
 
-Each gzipped .fasta file contains approximately 100k reads, in no particular order.
+* To download fast5s, fetch each URL, using e.g. wget -i fast5-listing.txt.gz
 
 ## 23 and Me SNPs ##
 
