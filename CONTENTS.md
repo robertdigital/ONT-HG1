@@ -6,8 +6,8 @@
 ## Index
 
 * [BAMs](#bams)
+* [Indices](#indices)
 * [Fast5s](#fast5s)
-* [Indices](#fast5s)
 * [23andMe SNPs](#23-and-me-snps)
 
 ## BAMs ##
