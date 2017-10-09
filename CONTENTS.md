@@ -78,7 +78,7 @@
 |---------|------|---------------------------------------------------------------------------|----------------------------------|
 | 2016-05 | 116M | [Fast5](https://s3-eu-west-1.amazonaws.com/ont-hg1b/fast5-listing.txt.gz) | d80e3620e0cf6fa97b2cb61ec507eabc |
 
-* To download fast5s, fetch each URL, using e.g. wget -i fast5-listing.txt.gz
+* To download fast5s, fetch each URL from the file listing above, using e.g. wget -i fast5-listing.txt.gz
 
 ## 23 and Me SNPs ##
 
