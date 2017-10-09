@@ -4,7 +4,7 @@
 * 2017-10: ONT-HG1 (Cliveome2) rebasecalled data from 2017-05.
 * 2017-05: ONT-HG1 (Cliveome2) GridION data release 2017-05.
 
-Two GridION runs were performed. The latest update removes previous basecalls and replaces them with basecalls obtained from a development version of the GPU accelerated `guppy` basecaller. This basecaller coantins serveral advances and fixes to that which was used previously; hence the removal of the previous calls.
+Two GridION runs were performed. The latest update removes previous basecalls and replaces them with basecalls obtained from a development version of the GPU accelerated `guppy` basecaller. This basecaller contains serveral advances and fixes to that used previously; hence the removal of the previous calls.
 
 The alignments provided here were obtained with minimap2 using approximately:
 
