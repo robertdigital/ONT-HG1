@@ -17,6 +17,8 @@ The alignments provided here were obtained with minimap2 using approximately:
 
 Note therefore that only primary alignments are included (secondary and supplementary alignments are removed as well as unmapped reads). The genome build used here although not the most recent is that which is referenced in the 23andMe results found below.
 
+An association between the alignment record identifiers that `.fast5` filenames can be found in the Guppy `basecalling_summary.txt.gz` found below.
+
 ## Index
 
 * [BAMs](#bams)
