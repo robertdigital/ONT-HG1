@@ -17,6 +17,9 @@ Version Management:
  * Firmware version: 0.10 - includes the fix for device temperature
  * Basecalling: Flip-Flop Model in Guppy 2.3.5
 
+Further details on data generation methods are available to member of the Nanopore Community:
+https://community.nanoporetech.com/posts/cliveome-v3-r9-4-1-feb19
+
 
 **Data**
 
