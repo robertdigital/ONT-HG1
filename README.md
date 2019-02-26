@@ -7,15 +7,15 @@ This is the first update since October 2017 and now incorporates all the platfor
 The data set contains ~80X coverage of Cliveome generated from 3 PromethION flow cells.
 
 Key stats:
-240 Gb called
-Read N50 for these runs combined are ~57 kb
+ * 240 Gb called
+ * Read N50 for these runs combined are ~57 kb
 
 Version Management:
-Device: PromethION Beta
-Flow Cell: FLO-PRO002 (R9.4.1)
-PromethION Software Version: 19.01
-Firmware version: 0.10 - includes the fix for device temperature
-Basecalling: Flip-Flop Model in Guppy 2.3.5
+ * Device: PromethION Beta
+ * Flow Cell: FLO-PRO002 (R9.4.1)
+ * PromethION Software Version: 19.01
+ * Firmware version: 0.10 - includes the fix for device temperature
+ * Basecalling: Flip-Flop Model in Guppy 2.3.5
 
 
 **Data**
