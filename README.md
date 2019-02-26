@@ -71,7 +71,7 @@ All other Human Genome sequencing to date has been provided as a service by a th
 
 This is by no means the first named individual Human Genome sequence, previously others have been made available such as those from J. Craig Venter and James Watson albeit using different and older technologies.
 
-As you can see from the [License](LICENSE.md), I am asserting Copyrights over this genome. I have included, briefly, some rationales for that claim. I believe they are valid, in any case, Copyrights should be explicitly extended to self-sequencing and publication.
+As you can see from the [License](LICENSE.ver1-2.md), I am asserting Copyrights over this genome. I have included, briefly, some rationales for that claim. I believe they are valid, in any case, Copyrights should be explicitly extended to self-sequencing and publication.
 
 Part of my motivation for sequencing myself and making the data public, under asserted rights, is to get the ball rolling on a new self-sequencing model. In the near future you will be able to take spittle, say, at home and sequence yourself on a regular basis. Data can be stored, analysed and tracked online under your control. If you also believe in this, I enjoin you to sequence yourselves at home and share your data (or not) under suitable rights of your choosing.
 
