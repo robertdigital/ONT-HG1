@@ -2,6 +2,21 @@
 Version 3.0
 -----------
 
+We're happy to announce the release of a new Cliveome data set released in February 2019.
+This is the first update since October 2017 and now incorporates all the platform updates that have occurred in the last 14 months.
+The data set contains ~80X coverage of Cliveome generated from 3 PromethION flow cells.
+
+Key stats:
+240 Gb called
+Read N50 for these runs combined are ~57 kb
+
+Version Management:
+Device: PromethION Beta
+Flow Cell: FLO-PRO002 (R9.4.1)
+PromethION Software Version: 19.01
+Firmware version: 0.10 - includes the fix for device temperature
+Basecalling: Flip-Flop Model in Guppy 2.3.5
+
 
 **Data**
 
