@@ -30,6 +30,9 @@ The data added in version 3.0 can be accessed from AWS S3 at the following prefi
 | .fastq  | 800Gb | "s3://ont-hg1b/PromethION CliveOME_2019-02/fastq/" | [fastq.listing.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fastq/fastq.listing.txt) | [fastq.md5sums.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fastq/fastq.md5sums.txt) |
 | .fast5  | 4Tb   | "s3://ont-hg1b/PromethION CliveOME_2019-02/fast5/" | [fast5.listing.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fast5/fast5.listing.txt) | [fast5.md5sums.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fast5/fast5.md5sums.txt) |
 
+The data can be downloaded using the [aws cli](https://aws.amazon.com/cli/), e.g.:
+
+    aws s3 sync "s3://ont-hg1b/PromethION CliveOME_2019-02/fastq/" fastq
 
 
 Version 2.1
