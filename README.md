@@ -32,7 +32,9 @@ The data added in version 3.0 can be accessed from AWS S3 at the following prefi
 
 The data can be downloaded using the [aws cli](https://aws.amazon.com/cli/), e.g.:
 
-    aws s3 sync "s3://ont-hg1b/PromethION CliveOME_2019-02/fastq/" fastq
+    aws s3 sync --no-sign-request "s3://ont-hg1b/PromethION CliveOME_2019-02/fastq/" fastq
+    
+The `--no-sign-request` can be omitted if you have AWS credentials.
 
 
 Version 2.1
