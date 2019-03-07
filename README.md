@@ -25,10 +25,11 @@ https://community.nanoporetech.com/posts/cliveome-v3-r9-4-1-feb19
 
 The data added in version 3.0 can be accessed from AWS S3 at the following prefixes
 
-| Dataset | Size  | Prefix                                             | File listing                                                                                               | Checksums                                                                                               |
+| Dataset | Size  | Prefix / URL                                       | File listing                                                                                               | Checksums                                                                                               |
 |---------|-------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | .fastq  | 800Gb | "s3://ont-hg1b/PromethION CliveOME_2019-02/fastq/" | [fastq.listing.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fastq/fastq.listing.txt) | [fastq.md5sums.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fastq/fastq.md5sums.txt) |
 | .fast5  | 4Tb   | "s3://ont-hg1b/PromethION CliveOME_2019-02/fast5/" | [fast5.listing.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fast5/fast5.listing.txt) | [fast5.md5sums.txt](https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/fast5/fast5.md5sums.txt) |
+| 23andME | 16Mb  | https://s3-eu-west-1.amazonaws.com/ont-hg1b/PromethION+CliveOME_2019-02/genome_Clive_Brown_v5_Full_20190307044727.txt          |
 
 The data can be downloaded using the [aws cli](https://aws.amazon.com/cli/), e.g.:
 
